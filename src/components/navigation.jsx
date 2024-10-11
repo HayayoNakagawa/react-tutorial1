@@ -1,4 +1,4 @@
-export default function Navigation() {
+export default function navigation() {
     return (
       <nav>
         <ul>
